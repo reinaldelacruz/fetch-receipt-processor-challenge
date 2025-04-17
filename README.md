@@ -1,7 +1,7 @@
 # Fetch Take-Home Challenge
 
 ## Overview
-This project is a simple web service that allows users to submit receipts and retrieve reward points based on those receipts.
+A simple Django web service that allows users to process receipt data and retrieve reward points associated with those receipts. The service provides two main endpoints: one for submitting receipts and generating unique IDs, and another for retrieving the points associated with a specific receipt ID.
 
 ## Endpoints
 
